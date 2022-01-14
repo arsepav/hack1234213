@@ -1,0 +1,10 @@
+opencv-python
+torch
+json
+numpy
+clip @ git+https://github.com/openai/CLIP.git
+tqdm
+os
+Pillow
+collections
+random
