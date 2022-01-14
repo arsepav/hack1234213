@@ -37,9 +37,8 @@ https://drive.google.com/file/d/1QrhoG_HEcl9B-BHGFjLEFKOpkdgMKKZy/view?usp=shari
 Должно получится:\
 https://drive.google.com/uc?id=1QrhoG_HEcl9B-BHGFjLEFKOpkdgMKKZy
 
-После выполнения блокнота инференса, на диске в колабе появится файл results.json.
-Он содержит предсказания по каждому кадру(pred_by_img), а также  предсказания по конкретному видео(result с индексом 2).
+После выполнения блокнота инференса, выводяться данные о загруженных видео.
 
-0 обозначает, что ДТП небыло, 1 - было.
+False обозначает, что ДТП небыло, True - было.
 
 Дополнительные файлы, а такжее копии из этого репозитория + модель [здесь](https://drive.google.com/drive/folders/11NHKVIPrEKfK7Ao8mlnJMLnnJQtmTwNu?usp=sharing).
